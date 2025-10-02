@@ -4,6 +4,7 @@ A RESTful API for running Renko + Ichimoku strategy backtests with configurable 
 
 ## Features
 
+-- ALL THE CONFIGs
 - RESTful API using Pistache
 - Configurable Renko brick size and reversal
 - Customizable Ichimoku parameters
